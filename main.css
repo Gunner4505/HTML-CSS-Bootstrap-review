@@ -19,17 +19,17 @@ body{
 }
 .carousel-image-1{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url(image 1);
+    url(img/space-launch-system.jpg);
     background-size:cover;
 }
 .carousel-image-2{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url(image 2);
+    url(img/rocketship2.jfif);
     background-size:cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.4)),
-    url(image 3);
+    url(img/rocketship3.png);
     background-size:cover;
 }
 .title-color{
