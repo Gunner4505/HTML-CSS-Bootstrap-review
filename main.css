@@ -11,7 +11,7 @@ body{
     outline: none!important;
 }
 .bg-black{
-    background-color: #000;
+    background-color:rgb(247, 8, 8);
 }
 /*=========Slider=========*/
 body{
@@ -28,7 +28,7 @@ body{
     outline: none !important;
 }
 .bg-black{
-    background: #000;
+    background: rgb(247, 8, 8);
 }
 /*=========Slider Section ============*/
 .carousel-item{
@@ -50,12 +50,12 @@ body{
     background-size: cover;
 }
 .h-color{
-    color:#fff;
+    color:rgb(255, 255, 255);
 
 }
 .btn-color{
-    background: #000;
-    color: #fff;
+    background: rgb(247, 8, 8);
+    color: rgb(0, 0, 0);
 }
 .btn-color:hover{
     color: #fff;
@@ -132,17 +132,17 @@ body{
   /*======End of Service Section====*/
   /*=======Products section=======*/
   #products{
-    background:#000;
+    background:rgb(247, 8, 8);
   }
   .product-title{
-    color: #fff;
+    color: rgb(0, 0, 0);
   }
 /* Float Shadow */
 .single-item {
   display: inline-block;
   vertical-align: middle;
   transform: perspective(1px) translateZ(0);
-  box-shadow: 0 0 1px rgb(247, 241, 241);
+  box-shadow: 0 0 1px rgb(0, 0, 0);
   position: relative;
   transition-duration: 0.3s;
   transition-property: transform;
@@ -238,8 +238,8 @@ body{
 }
 /*Best Seller== */
 .seller{
-  background: #000;
-  color: #fff;
+  background: rgb(247, 8, 8);
+  color: rgb(0, 0, 0);
   margin-top: 30px;
 }
 .img-top{
@@ -255,7 +255,7 @@ body{
   right: 30px;
   left: 30px;
   padding: 10px 0;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-weight: bold;
   cursor: pointer;
 }
@@ -277,8 +277,8 @@ body{
 /* End of Best Seller==*/
 /*Contact us */
 .btn-color{
-  background: #000;
-  color: #fff;
+  background: rgb(247, 8, 8);
+  color: rgb(0, 0, 0);
 }
 
 /* Wobble Vertical */
@@ -343,8 +343,8 @@ body{
 }
 /*==Footer===*/
 .footer{
-  background: #000;
-  color: #fff;
+  background: rgb(247, 8, 8);
+  color: rgb(0, 0, 0);
 }
 .fab{
   padding-left: 10px;
